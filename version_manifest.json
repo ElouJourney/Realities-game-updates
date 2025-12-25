@@ -5,10 +5,10 @@
     "New features"
   ],
   "size_mb": 10.5,
-  "base_url": "https://raw.githubusercontent.com/YOUR_USERNAME/my-game-updates/main/updates",
+  "base_url": "https://raw.githubusercontent.com/ElouJourney/Realities-game-updates/refs/heads/main/patch.zip",
   "files": [
     {
-      "name": "full_update.zip",
+      "name": "patch.zip",
       "operation": "extract_replace"
     }
   ]
