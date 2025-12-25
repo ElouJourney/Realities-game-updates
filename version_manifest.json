@@ -1,0 +1,15 @@
+{
+  "version": "1.7.3",
+  "changelog": [
+    "Bug fixes",
+    "New features"
+  ],
+  "size_mb": 10.5,
+  "base_url": "https://raw.githubusercontent.com/YOUR_USERNAME/my-game-updates/main/updates",
+  "files": [
+    {
+      "name": "full_update.zip",
+      "operation": "extract_replace"
+    }
+  ]
+}
